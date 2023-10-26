@@ -1,4 +1,7 @@
 # BrawlStarsPageCopy
+>Practica hecha por:
+**Victor Javier Chavarria Martinez**
+
 Practica 3, Parcial 3
 
 | Link a la pagina | Tipo |
