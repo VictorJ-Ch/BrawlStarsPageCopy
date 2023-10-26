@@ -1,6 +1,85 @@
 /*DOC*/
-html{
-    background-color: blue;
+body{
+    background-color: white;
+}
+h1{
+    font-weight: bold;
+}
+h5{
+    margin-top: 1em;
+    text-align: center;
+    color: rgb(223, 71, 185);
+    text-transform: uppercase;
+}
+footer{
+    background-color: black;
+    color: white;
+}
+.footer{
+    margin-left: 4em;
+}
+/*LINKS*/
+a {
+    text-decoration: none;
+}
+a {
+    color: white;
+}
+a {
+    padding: 0 1em;
+}
+a {
+    font-weight: bold;
+}
+a.link {
+    text-decoration: none;
+    color: white;
+    padding: 0 1em;
+    font-weight: bold;
+}
+
+/*BTTN*/
+.center-button {
+    margin: 0 auto;
+    display: block;
+}
+/*IMG*/
+.custom-img {
+    max-width: 200%;
+    height:auto;
+    float: left;
+}
+.HeroImage_logo__OLuEg {
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 20%;
+    min-width: 300px;
+    min-height: 130px;
+    max-height: 120px;
+    object-fit: contain;
+}
+.custom-col {
+    margin-right: 10px;
+}
+#banner2 .background-image {
+    position: relative;
+}
+
+#banner2 .background-image img {
+    width: 100%;
+}
+
+#banner2 .content-overlay {
+    color: white;
+    padding: 20px;
+}
+.small-image {
+    padding: 1px;
+}
+.custom-col-right {
+    text-align: right;
 }
 /*NAV BAR*/
 .custom-navbar {
@@ -11,4 +90,11 @@ html{
 }
 .nav-icon {
     margin-right: 10px;
+}
+/*BANNER*/
+.imagen-extendida {
+    width: 100vw;
+    max-height: 75vh;
+    margin-left: 0;
+    margin-right: 0;
 }
