@@ -1,0 +1,14 @@
+/*DOC*/
+html{
+    background-color: blue;
+}
+/*NAV BAR*/
+.custom-navbar {
+    background-color: black;
+}
+.custom-navbar .nav-link {
+    color: white;
+}
+.nav-icon {
+    margin-right: 10px;
+}
